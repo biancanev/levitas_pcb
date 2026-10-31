@@ -1,0 +1,1 @@
+(fp_lib_table (lib (name "Levitas3") (type "KiCad") (uri "${KIPRJMOD}/Levitas3.pretty") (options "") (descr "Footprint extracted from supplied PCB")))

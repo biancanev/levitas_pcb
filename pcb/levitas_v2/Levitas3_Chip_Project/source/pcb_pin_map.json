@@ -1,0 +1,255 @@
+{
+  "source_file": "D:\\OneDrive\\Berkeley\\FA 2026\\AuREO\\levitas\\Levitas3_40pad_KiCad_package\\verification\\levitas3_geometry_coupon.kicad_pcb",
+  "source_sha256": "d4ed0c8c30c33e96fb3b8615663cb0bfb26557ceaac9b4432b0a8719444845cf",
+  "project": "Levitas3_Chip",
+  "symbol": "Levitas3_Chip_40Pin",
+  "footprint": "Levitas3:Levitas3_Chip_40Pad_Wirebond",
+  "reference": "U1",
+  "value": "Levitas3_Chip_40Pad_Wirebond",
+  "pins": [
+    {
+      "pin": 1,
+      "net": "P01_XD_Q2",
+      "function": "XD_Q2",
+      "pin_type": "passive"
+    },
+    {
+      "pin": 2,
+      "net": "P02_YD_Q2",
+      "function": "YD_Q2",
+      "pin_type": "passive"
+    },
+    {
+      "pin": 3,
+      "net": "P03_YS_Q2",
+      "function": "YS_Q2",
+      "pin_type": "passive"
+    },
+    {
+      "pin": 4,
+      "net": "P04_ZS_XM_Q2",
+      "function": "ZS_XM_Q2",
+      "pin_type": "passive"
+    },
+    {
+      "pin": 5,
+      "net": "P05_ZS_XM_Q2",
+      "function": "ZS_XM_Q2",
+      "pin_type": "passive"
+    },
+    {
+      "pin": 6,
+      "net": "P06_ZD_XM",
+      "function": "ZD_XM",
+      "pin_type": "passive"
+    },
+    {
+      "pin": 7,
+      "net": "P07_ZS_XM_Q3",
+      "function": "ZS_XM_Q3",
+      "pin_type": "passive"
+    },
+    {
+      "pin": 8,
+      "net": "P08_ZS_XM_Q3",
+      "function": "ZS_XM_Q3",
+      "pin_type": "passive"
+    },
+    {
+      "pin": 9,
+      "net": "P09_YS_Q3",
+      "function": "YS_Q3",
+      "pin_type": "passive"
+    },
+    {
+      "pin": 10,
+      "net": "P10_GND",
+      "function": "GND",
+      "pin_type": "passive"
+    },
+    {
+      "pin": 11,
+      "net": "P11_YD_Q3",
+      "function": "YD_Q3",
+      "pin_type": "passive"
+    },
+    {
+      "pin": 12,
+      "net": "P12_XD_Q3",
+      "function": "XD_Q3",
+      "pin_type": "passive"
+    },
+    {
+      "pin": 13,
+      "net": "P13_XS_Q3",
+      "function": "XS_Q3",
+      "pin_type": "passive"
+    },
+    {
+      "pin": 14,
+      "net": "P14_ZS_YM_Q3",
+      "function": "ZS_YM_Q3",
+      "pin_type": "passive"
+    },
+    {
+      "pin": 15,
+      "net": "P15_ZS_YM_Q3",
+      "function": "ZS_YM_Q3",
+      "pin_type": "passive"
+    },
+    {
+      "pin": 16,
+      "net": "P16_ZD_YM",
+      "function": "ZD_YM",
+      "pin_type": "passive"
+    },
+    {
+      "pin": 17,
+      "net": "P17_ZS_YM_Q4",
+      "function": "ZS_YM_Q4",
+      "pin_type": "passive"
+    },
+    {
+      "pin": 18,
+      "net": "P18_ZS_YM_Q4",
+      "function": "ZS_YM_Q4",
+      "pin_type": "passive"
+    },
+    {
+      "pin": 19,
+      "net": "P19_XS_Q4",
+      "function": "XS_Q4",
+      "pin_type": "passive"
+    },
+    {
+      "pin": 20,
+      "net": "P20_GND",
+      "function": "GND",
+      "pin_type": "passive"
+    },
+    {
+      "pin": 21,
+      "net": "P21_XD_Q4",
+      "function": "XD_Q4",
+      "pin_type": "passive"
+    },
+    {
+      "pin": 22,
+      "net": "P22_YD_Q4",
+      "function": "YD_Q4",
+      "pin_type": "passive"
+    },
+    {
+      "pin": 23,
+      "net": "P23_YS_Q4",
+      "function": "YS_Q4",
+      "pin_type": "passive"
+    },
+    {
+      "pin": 24,
+      "net": "P24_ZS_XP_Q4",
+      "function": "ZS_XP_Q4",
+      "pin_type": "passive"
+    },
+    {
+      "pin": 25,
+      "net": "P25_ZS_XP_Q4",
+      "function": "ZS_XP_Q4",
+      "pin_type": "passive"
+    },
+    {
+      "pin": 26,
+      "net": "P26_ZD_XP",
+      "function": "ZD_XP",
+      "pin_type": "passive"
+    },
+    {
+      "pin": 27,
+      "net": "P27_ZS_XP_Q1",
+      "function": "ZS_XP_Q1",
+      "pin_type": "passive"
+    },
+    {
+      "pin": 28,
+      "net": "P28_ZS_XP_Q1",
+      "function": "ZS_XP_Q1",
+      "pin_type": "passive"
+    },
+    {
+      "pin": 29,
+      "net": "P29_YS_Q1",
+      "function": "YS_Q1",
+      "pin_type": "passive"
+    },
+    {
+      "pin": 30,
+      "net": "P30_GND",
+      "function": "GND",
+      "pin_type": "passive"
+    },
+    {
+      "pin": 31,
+      "net": "P31_YD_Q1",
+      "function": "YD_Q1",
+      "pin_type": "passive"
+    },
+    {
+      "pin": 32,
+      "net": "P32_XD_Q1",
+      "function": "XD_Q1",
+      "pin_type": "passive"
+    },
+    {
+      "pin": 33,
+      "net": "P33_XS_Q1",
+      "function": "XS_Q1",
+      "pin_type": "passive"
+    },
+    {
+      "pin": 34,
+      "net": "P34_ZS_YP_Q1",
+      "function": "ZS_YP_Q1",
+      "pin_type": "passive"
+    },
+    {
+      "pin": 35,
+      "net": "P35_ZS_YP_Q1",
+      "function": "ZS_YP_Q1",
+      "pin_type": "passive"
+    },
+    {
+      "pin": 36,
+      "net": "P36_ZD_YP",
+      "function": "ZD_YP",
+      "pin_type": "passive"
+    },
+    {
+      "pin": 37,
+      "net": "P37_ZS_YP_Q2",
+      "function": "ZS_YP_Q2",
+      "pin_type": "passive"
+    },
+    {
+      "pin": 38,
+      "net": "P38_ZS_YP_Q2",
+      "function": "ZS_YP_Q2",
+      "pin_type": "passive"
+    },
+    {
+      "pin": 39,
+      "net": "P39_XS_Q2",
+      "function": "XS_Q2",
+      "pin_type": "passive"
+    },
+    {
+      "pin": 40,
+      "net": "P40_GND",
+      "function": "GND",
+      "pin_type": "passive"
+    }
+  ],
+  "sheet_uuid": "50f63419-230e-5816-ab7e-1728fae49d3f",
+  "symbol_uuid": "1e27aed3-02f2-5e61-a3b5-1cc7e7a179bf",
+  "track_count": 40,
+  "copper_layers": 4
+}
