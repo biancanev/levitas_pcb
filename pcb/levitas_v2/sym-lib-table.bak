@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "levitas_v3_symbol")(type "KiCad")(uri "${KIPRJMOD}/Levitas3_Chip_Project/Levitas3.kicad_sym")(options "")(descr ""))
+  (lib (name "fdc2112")(type "KiCad")(uri "${KIPRJMOD}/levitas_custom.kicad_sym")(options "")(descr ""))
+  (lib (name "lm3940")(type "KiCad")(uri "${KIPRJMOD}/LM3940/2026-10-28_02-21-21.kicad_sym")(options "")(descr ""))
+)

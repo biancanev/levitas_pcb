@@ -1,0 +1,28 @@
+{
+  "kicad_version": "10.0.3",
+  "source_sha256": "d4ed0c8c30c33e96fb3b8615663cb0bfb26557ceaac9b4432b0a8719444845cf",
+  "source_file_unchanged": true,
+  "pcb_geometry_and_nets_identical": true,
+  "permitted_copy_changes": [
+    "footprint library link",
+    "schematic instance path",
+    "pin function/type metadata",
+    "description"
+  ],
+  "symbol_units": 1,
+  "left_pins": 20,
+  "right_pins": 20,
+  "pin_to_net_matches": 40,
+  "restored_pins": {
+    "4": "ZS_XM_Q2",
+    "24": "ZS_XP_Q4"
+  },
+  "erc_errors": 0,
+  "erc_warnings": 40,
+  "erc_warning_type": "isolated_pin_label",
+  "drc_errors": 0,
+  "drc_warnings": 40,
+  "drc_warning_type": "track_dangling",
+  "schematic_parity_issues": 0,
+  "library_mismatch_issues": 0
+}
