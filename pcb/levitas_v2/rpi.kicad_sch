@@ -6064,6 +6064,12 @@
 		(uuid "d5d668a2-3605-4e62-a9c0-9eaf311d73ea")
 	)
 	(junction
+		(at 104.14 109.22)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d6ac807c-ca8e-4660-bdf1-6b198f204bf5")
+	)
+	(junction
 		(at 217.17 49.53)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6124,12 +6130,32 @@
 		(uuid "f6ddedf7-7668-4560-b18f-f7dfa643c585")
 	)
 	(no_connect
+		(at 93.98 106.68)
+		(uuid "09ca258d-8063-4281-b3d7-112c1dcbb844")
+	)
+	(no_connect
 		(at 72.39 34.29)
 		(uuid "17be6e9a-28eb-4433-9cd7-13ea63a2de6c")
 	)
 	(no_connect
+		(at 72.39 54.61)
+		(uuid "1d052e6f-b2d8-40d7-8e63-301afc3b8773")
+	)
+	(no_connect
+		(at 93.98 104.14)
+		(uuid "37bea86b-1de2-43ab-bee6-8ef4b84ac7b9")
+	)
+	(no_connect
+		(at 72.39 59.69)
+		(uuid "3f48c952-f15c-44db-980b-001b641cd798")
+	)
+	(no_connect
 		(at 72.39 36.83)
 		(uuid "40e6e558-2188-4e6d-977d-e2dc6fe6c948")
+	)
+	(no_connect
+		(at 72.39 52.07)
+		(uuid "79b44115-3aa5-41ab-a05f-3141ffa3e6f7")
 	)
 	(no_connect
 		(at 72.39 39.37)
@@ -6358,6 +6384,16 @@
 			(type default)
 		)
 		(uuid "2d4a4b47-8aa3-4c52-8770-cbccd5be9ea7")
+	)
+	(wire
+		(pts
+			(xy 93.98 109.22) (xy 104.14 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2e45a378-ca48-43c6-9d3a-8e8fd401e9f8")
 	)
 	(wire
 		(pts
@@ -7521,6 +7557,16 @@
 	)
 	(wire
 		(pts
+			(xy 104.14 109.22) (xy 104.14 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "be43a243-3b8c-442d-9845-0c3de71df74a")
+	)
+	(wire
+		(pts
 			(xy 59.69 160.02) (xy 59.69 165.1)
 		)
 		(stroke
@@ -7721,7 +7767,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 96.52) (xy 104.14 115.57)
+			(xy 104.14 96.52) (xy 104.14 109.22)
 		)
 		(stroke
 			(width 0)
@@ -8049,26 +8095,6 @@
 		)
 		(uuid "21a37900-ef6a-48ac-adf5-537111638158")
 	)
-	(label "REF_SCL"
-		(at 72.39 59.69 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "25ef4329-8a29-4ff5-8914-ee9dc0ae4eae")
-	)
-	(label "REF_XCL"
-		(at 93.98 106.68 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "27c78388-c3c1-413d-98af-24c32ee242e5")
-	)
 	(label "SHIFT_CLK"
 		(at 49.53 109.22 0)
 		(effects
@@ -8098,6 +8124,16 @@
 			(justify left bottom)
 		)
 		(uuid "3d305898-d769-40e1-b1d9-a9e535d5bfad")
+	)
+	(label "REF_SCL"
+		(at 72.39 46.99 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "4de04dfb-a564-4b8d-bcb9-81de5dce72fb")
 	)
 	(label "SHIFT_CLK"
 		(at 72.39 72.39 180)
@@ -8159,7 +8195,7 @@
 		)
 		(uuid "7de77ef5-ed6d-4382-9c8b-9a46f13c77c8")
 	)
-	(label "REF_XCL"
+	(label "REF_SDA"
 		(at 72.39 49.53 180)
 		(effects
 			(font
@@ -8167,7 +8203,7 @@
 			)
 			(justify right bottom)
 		)
-		(uuid "8c087522-becf-4941-bb89-fa384a5048fb")
+		(uuid "902aaec3-d3fb-47d4-9942-87b9459bc963")
 	)
 	(label "DATA_C"
 		(at 113.03 71.12 0)
@@ -8179,16 +8215,6 @@
 		)
 		(uuid "973db34d-2929-4be5-bc40-4f6430263eb2")
 	)
-	(label "REF_ADO"
-		(at 93.98 109.22 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "998c1623-e806-493f-bc10-5782b4f2efc6")
-	)
 	(label "HV-"
 		(at 129.54 170.18 0)
 		(effects
@@ -8198,36 +8224,6 @@
 			(justify left bottom)
 		)
 		(uuid "a2ae4ad5-f757-4cc5-888c-82045439124b")
-	)
-	(label "REF_XDA"
-		(at 72.39 52.07 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "a4245b9d-30dc-4ae7-ab72-3a9a70dd82b7")
-	)
-	(label "REF_XDA"
-		(at 93.98 104.14 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "aa2ae66a-1d4a-4c50-a1d4-10fc817d6be7")
-	)
-	(label "REF_SDA"
-		(at 72.39 54.61 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "b67be1fc-e926-4b40-91ee-a000d11dc12e")
 	)
 	(label "STORE_CLK"
 		(at 72.39 74.93 180)
@@ -8248,16 +8244,6 @@
 			(justify left bottom)
 		)
 		(uuid "c1f36d35-d1bd-4bea-9189-ac1597e68c2e")
-	)
-	(label "REF_ADO"
-		(at 72.39 46.99 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "c56c2aaa-8a1b-4673-901a-7045ece554ae")
 	)
 	(label "REF_INT"
 		(at 93.98 111.76 0)
@@ -9341,7 +9327,7 @@
 				)
 			)
 		)
-		(property "Value" "J_DA_CSM"
+		(property "Value" "J_DA_MOSI"
 			(at 108.585 68.58 0)
 			(show_name no)
 			(do_not_autoplace no)
