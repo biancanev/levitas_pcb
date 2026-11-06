@@ -1,0 +1,70 @@
+﻿Designator,Value,Footprint,Reason excluded
+C44,10n,C_Disc_D7.5mm_W2.5mm_P5.00mm,Through-hole component — excluded from SMT assembly
+D1,LED,LED_D5.0mm,Through-hole component — excluded from SMT assembly
+D2,D,D_DO-41_SOD81_P10.16mm_Horizontal,Through-hole component — excluded from SMT assembly
+D3,1N1004,D_DO-41_SOD81_P10.16mm_Horizontal,DO NOT ASSEMBLE — explicitly requested
+F1,Polyfuse,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,Through-hole component — excluded from SMT assembly
+F2,Polyfuse,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,Through-hole component — excluded from SMT assembly
+F3,Polyfuse,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,Through-hole component — excluded from SMT assembly
+F4,Polyfuse,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,Through-hole component — excluded from SMT assembly
+J1,RPI_L,PinSocket_1x20_P2.54mm_Vertical,Through-hole component — excluded from SMT assembly
+J19,J_DA_CSM,PinHeader_1x02_P2.54mm_Vertical,Through-hole component — excluded from SMT assembly
+J2,RPI_R,PinSocket_1x20_P2.54mm_Vertical,Through-hole component — excluded from SMT assembly
+J20,J_DB_SCLK,PinHeader_1x02_P2.54mm_Vertical,Through-hole component — excluded from SMT assembly
+J21,J_DA_MOSI,PinHeader_1x02_P2.54mm_Vertical,Through-hole component — excluded from SMT assembly
+J22,J_HV_OUT,PinHeader_1x04_P2.54mm_Vertical,Through-hole component — excluded from SMT assembly
+J23,J_3V3_EXT,PinHeader_1x02_P2.54mm_Vertical,Through-hole component — excluded from SMT assembly
+J3,J_HVA,PinHeader_1x04_P2.54mm_Vertical,Through-hole component — excluded from SMT assembly
+J4,J_HVB,PinHeader_1x04_P2.54mm_Vertical,Through-hole component — excluded from SMT assembly
+J5,J_HVC,PinHeader_1x04_P2.54mm_Vertical,Through-hole component — excluded from SMT assembly
+J6,J_HV,PinHeader_1x24_P2.54mm_Vertical,Through-hole component — excluded from SMT assembly
+J7,J_MPU,PinSocket_1x08_P2.54mm_Vertical,Through-hole component — excluded from SMT assembly
+JP1,,,Bare solder jumper (no component)
+JP10,,,Bare solder jumper (no component)
+JP11,,,Bare solder jumper (no component)
+JP12,,,Bare solder jumper (no component)
+JP13,,,Bare solder jumper (no component)
+JP14,,,Bare solder jumper (no component)
+JP15,,,Bare solder jumper (no component)
+JP16,,,Bare solder jumper (no component)
+JP17,,,Bare solder jumper (no component)
+JP18,,,Bare solder jumper (no component)
+JP2,,,Bare solder jumper (no component)
+JP20,,,Bare solder jumper (no component)
+JP22,,,Bare solder jumper (no component)
+JP23,Jumper_2_Bridged,PinHeader_1x02_P2.54mm_Vertical,Through-hole component — excluded from SMT assembly
+JP24,,,Bare solder jumper (no component)
+JP25,,,Bare solder jumper (no component)
+JP26,,,Bare solder jumper (no component)
+JP27,,,Bare solder jumper (no component)
+JP3,,,Bare solder jumper (no component)
+JP4,,,Bare solder jumper (no component)
+JP5,,,Bare solder jumper (no component)
+JP6,,,Bare solder jumper (no component)
+JP7,,,Bare solder jumper (no component)
+JP8,,,Bare solder jumper (no component)
+JP9,,,Bare solder jumper (no component)
+M3_H1,,,Mounting hole (no component)
+M3_H2,,,Mounting hole (no component)
+M3_H3,,,Mounting hole (no component)
+M3_H4,,,Mounting hole (no component)
+R29,5k,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,Through-hole component — excluded from SMT assembly
+R32,220,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,DO NOT ASSEMBLE — explicitly requested
+R33,1M,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,Through-hole component — excluded from SMT assembly
+R34,5k,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,Through-hole component — excluded from SMT assembly
+R35,5k,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,Through-hole component — excluded from SMT assembly
+R36,5k,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,Through-hole component — excluded from SMT assembly
+TP1,3V3_A_TP,TestPoint_Pad_D1.0mm,Bare test pad (no component)
+TP10,TestPoint,TestPoint_Pad_D1.0mm,Bare test pad (no component)
+TP12,TestPoint,TestPoint_Pad_D1.0mm,Bare test pad (no component)
+TP14,TestPoint,TestPoint_Pad_D1.0mm,Bare test pad (no component)
+TP16,TestPoint,TestPoint_Pad_D1.0mm,Bare test pad (no component)
+TP2,TestPoint,TestPoint_Pad_D1.0mm,Bare test pad (no component)
+TP3,5v_TP,TestPoint_Pad_D1.0mm,Bare test pad (no component)
+TP4,TestPoint,TestPoint_Pad_D1.0mm,Bare test pad (no component)
+TP5,GND_TP,TestPoint_Pad_D1.0mm,Bare test pad (no component)
+TP6,TestPoint,TestPoint_Pad_D1.0mm,Bare test pad (no component)
+TP8,TestPoint,TestPoint_Pad_D1.0mm,Bare test pad (no component)
+U1,Levitas3_Chip_40Pad_Wirebond,Levitas3_Chip_40Pad_Wirebond,Wirebond die footprint — not standard SMT assembly
+U10,HV264,TSSOP-24_4.4x7.8mm_P0.65mm,DO NOT ASSEMBLE — explicitly requested
+U13,Q025-5C,Q025-5C,Through-hole component — excluded from SMT assembly

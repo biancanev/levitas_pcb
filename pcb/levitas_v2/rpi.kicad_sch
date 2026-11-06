@@ -14437,7 +14437,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "df29480c-c12c-42e3-940e-aafdd1abc7b7")
-		(property "Reference" "C39"
+		(property "Reference" "C39_2"
 			(at 193.04 33.0199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14501,7 +14501,7 @@
 		(instances
 			(project "levitas_v2"
 				(path "/ae429274-9112-4b9c-81ec-c2035b0c75ff/468727af-e606-4f35-82f2-b170e1163abc"
-					(reference "C39")
+					(reference "C39_2")
 					(unit 1)
 				)
 			)
