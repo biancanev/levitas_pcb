@@ -4,4 +4,6 @@
 	(lib (name "levitas_local") (type "KiCad") (uri "${KIPRJMOD}/levitas_local.pretty") (options "") (descr ""))
 	(lib (name "LM3940") (type "KiCad") (uri "${KIPRJMOD}/LM3940/footprints.pretty") (options "") (descr ""))
 	(lib (name "TLV755") (type "KiCad") (uri "${KIPRJMOD}/TLV755P/footprints.pretty") (options "") (descr ""))
+	(lib (name "SN74HCT244PWR") (type "KiCad") (uri "${KIPRJMOD}/SN74HCT244PWR/footprints.pretty") (options "") (descr ""))
+	(lib (name "levitas_hv") (type "KiCad") (uri "${KIPRJMOD}/hv_footprints.pretty") (options "") (descr ""))
 )

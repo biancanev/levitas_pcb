@@ -39,9 +39,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.8,
-          "height": 1.27,
-          "width": 2.54
+          "drill": 0.2032,
+          "height": 0.499999,
+          "width": 0.499999
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -60,7 +60,7 @@
           "hatch_smoothing_level": 0,
           "hatch_smoothing_value": 0.1,
           "hatch_thickness": 1.0,
-          "min_clearance": 0.5,
+          "min_clearance": 0.0,
           "min_island_area": 10.0,
           "min_thickness": 0.25,
           "pad_connection": 1,
@@ -69,7 +69,13 @@
           "thermal_relief_spoke_width": 0.5
         }
       },
-      "diff_pair_dimensions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
       "drc_exclusions": [],
       "meta": {
         "version": 2
@@ -206,7 +212,11 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [],
+      "track_widths": [
+        0.0,
+        0.254,
+        0.508
+      ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
           "corner_radius_percentage": 80,
@@ -233,7 +243,12 @@
           "spacing": 0.6
         }
       },
-      "via_dimensions": [],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        }
+      ],
       "zones_allow_external_fillets": false
     },
     "ipc2581": {
@@ -607,12 +622,24 @@
           "label": "Datasheet",
           "name": "Datasheet",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
-      "name": "Default Editing",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },
@@ -665,7 +692,7 @@
         "uuid": "ae429274-9112-4b9c-81ec-c2035b0c75ff"
       }
     ],
-    "used_designators": "#PWR1-2,#PWR5,#PWR9,#PWR13,#PWR17,#PWR39,C37-39,J6-7,TP1,TP3,TP5,U11",
+    "used_designators": "#PWR1-2,#PWR5,#PWR8-9,#PWR12-13,#PWR16-17,#PWR20-21,#PWR24-25,#PWR28-29,#PWR32,#PWR37-40,#PWR54-58,C37-46,D1-4,F1-4,J6-23,JP17-27,R29-36,TP1,TP3,TP5,U10-13",
     "variants": []
   },
   "sheets": [

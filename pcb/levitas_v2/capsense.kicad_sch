@@ -5981,17 +5981,6 @@
 			)
 		)
 	)
-	(hierarchical_label "YS_Q2"
-		(shape input)
-		(at 275.59 29.21 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "03e54d87-b653-43b1-b74d-c9bcc31c03bf")
-	)
 	(hierarchical_label "ZS_YM_Q4"
 		(shape input)
 		(at 189.23 128.27 0)
@@ -6002,17 +5991,6 @@
 			(justify left)
 		)
 		(uuid "043a4a6f-1549-4750-a103-ff3c6e6cdf8d")
-	)
-	(hierarchical_label "ZS_XP_Q4"
-		(shape input)
-		(at 184.15 77.47 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "07a35a15-9d70-4053-8330-6bb0df273b80")
 	)
 	(hierarchical_label "SCL2"
 		(shape output)
@@ -6047,16 +6025,16 @@
 		)
 		(uuid "1b921a28-caa7-4993-bf11-a48906c3d29a")
 	)
-	(hierarchical_label "XS_Q1"
+	(hierarchical_label "YS_Q2"
 		(shape input)
-		(at 185.42 36.83 0)
+		(at 275.59 36.83 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "3e0837b1-41b6-459c-9c32-e62067c09d80")
+		(uuid "3f05e5c7-dc99-44c4-a8e1-fbfd4d6cff32")
 	)
 	(hierarchical_label "ZS_XM_Q2"
 		(shape input)
@@ -6079,6 +6057,17 @@
 			(justify right)
 		)
 		(uuid "4a69593c-02ce-416d-8e4d-89559507f9d5")
+	)
+	(hierarchical_label "ZS_XP_Q1"
+		(shape input)
+		(at 184.15 77.47 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4f6cfe03-26b3-41f5-a67f-51ab27ac14db")
 	)
 	(hierarchical_label "XS_Q4"
 		(shape input)
@@ -6146,6 +6135,17 @@
 		)
 		(uuid "8c8d9566-8bd0-4e60-9837-dc92c9608f50")
 	)
+	(hierarchical_label "YS_Q4"
+		(shape input)
+		(at 185.42 36.83 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "960b31d5-acea-41e9-9e41-600c9ab82fbe")
+	)
 	(hierarchical_label "ZS_YM_Q3"
 		(shape input)
 		(at 189.23 135.89 0)
@@ -6167,6 +6167,17 @@
 			(justify right)
 		)
 		(uuid "9cddc20c-6821-4c9a-bb4e-55aebb66ca14")
+	)
+	(hierarchical_label "XS_Q1"
+		(shape input)
+		(at 185.42 29.21 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a31d51aa-e821-48fb-adf7-ad330844579f")
 	)
 	(hierarchical_label "SDA3"
 		(shape output)
@@ -6190,17 +6201,6 @@
 		)
 		(uuid "a764ee6c-c24c-46de-a493-c3d50a2a9eb2")
 	)
-	(hierarchical_label "ZS_XP_Q1"
-		(shape input)
-		(at 184.15 85.09 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "ba6119c1-b797-4cb6-9906-0fdafa5ce545")
-	)
 	(hierarchical_label "YS_Q1"
 		(shape input)
 		(at 95.25 29.21 0)
@@ -6223,17 +6223,6 @@
 		)
 		(uuid "c583ed7d-4b47-4b65-a975-b2e39161fde6")
 	)
-	(hierarchical_label "YS_Q4"
-		(shape input)
-		(at 185.42 29.21 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "cc76c00f-31a0-485b-b964-17f357e556e6")
-	)
 	(hierarchical_label "XS_Q2"
 		(shape input)
 		(at 96.52 85.09 0)
@@ -6244,17 +6233,6 @@
 			(justify left)
 		)
 		(uuid "cfb242b9-98b4-4b6b-baf4-c83e21fe71cd")
-	)
-	(hierarchical_label "XS_Q3"
-		(shape input)
-		(at 275.59 36.83 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "d2f9f0c6-1f45-4009-9bc5-f4b63be73e1c")
 	)
 	(hierarchical_label "ZS_XM_Q3"
 		(shape input)
@@ -6311,6 +6289,17 @@
 		)
 		(uuid "ebd68356-2de4-4391-9cf9-cd1d0e94f876")
 	)
+	(hierarchical_label "XS_Q3"
+		(shape input)
+		(at 275.59 29.21 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ee42a5af-d2c1-44c1-a429-adceffe2a6ff")
+	)
 	(hierarchical_label "SDA7"
 		(shape output)
 		(at 22.86 134.62 180)
@@ -6321,6 +6310,17 @@
 			(justify right)
 		)
 		(uuid "f3d380bb-1298-45a7-bce8-99e6557d0284")
+	)
+	(hierarchical_label "ZS_XP_Q4"
+		(shape input)
+		(at 184.15 85.09 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "fa545bb1-03e0-433a-8e85-75b9fefc76b6")
 	)
 	(hierarchical_label "SCL4"
 		(shape output)
